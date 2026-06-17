@@ -9,6 +9,9 @@ Duration- 25 May 2026-22 June 2026
 Intern ID- CITS1602
 
 PROJECT NAME- LEARINING-MANAGEMENT-SYSTEM-LMS
+
+
+
 PROJECT DETAIL-
 
 A web-based LMS platform built using HTML, CSS, and JavaScript to provide an interactive and user-friendly environment for online learning.
