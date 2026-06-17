@@ -43,7 +43,7 @@ Branding: Custom logo and theme (KumarTech LMS)
 
 OUTPUT IMAGE:
 ![image Text](https://github.com/sandipkumarbhakat175-sudo/LEARINING-MANAGEMENT-SYSTEM-LMS-/blob/5568cbc6d2d99db173b8ece927a5885d675f61e3/output1image.png)
-![image Text](
+![image Text](https://github.com/sandipkumarbhakat175-sudo/LEARINING-MANAGEMENT-SYSTEM-LMS-/blob/8bacc1e7da65b3e0b9b7f21cb4719e93af925e79/output2image.png)
 ![image Text](
 ![image Text](
 ![image Text](
